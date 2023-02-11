@@ -7,6 +7,8 @@
 #include <stdio.h>
 #include <stdbool.h>
 
+// this edition committed to gitHub from the terminal
+
 int main(){
 	bool isRunning = true;
 	int score = 0;

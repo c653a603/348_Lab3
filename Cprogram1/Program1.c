@@ -7,6 +7,7 @@
 #include <stdio.h>
 
 // this edition committed to gitHub from the terminal
+// attempt 2
 
 // helper function that translates an int (0-11) into a string of the month it represents
 char* getMonth(int m)

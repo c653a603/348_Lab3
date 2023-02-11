@@ -8,6 +8,7 @@
 #include <stdbool.h>
 
 // this edition committed to gitHub from the terminal
+// attempt 2
 
 int main(){
 	bool isRunning = true;
